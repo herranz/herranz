@@ -10,4 +10,4 @@ This github is a window to my brain.
 
 
 Right now I don't have any form of patreon/ko-fi to support me because I do this as a hobby. If you want really to donate please send the money to organizations 
-that really needed.  
+that really needed.
