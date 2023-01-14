@@ -1,11 +1,9 @@
 # Borja Herranz-Pérez 👨‍💻
 
----
 
 ## Hi there 👋,
 
 ### I'm Borja Herranz-Pérez, a electronics engineer who loves tech and have too many hobbies to not be retired.
--------
 
 
 
